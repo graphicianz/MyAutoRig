@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="G/MEGA_Script/MyAutoRig/icon/">
+    <file>full_body.png</file>
+  </qresource>
+</RCC>
